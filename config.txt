@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTkyMDAyNzc0NTc3NzA5MDU2.XRsw1w.gRj8Uzb9XhGsDaAMvkj_Hs-p3tM
+owner=468836034185265162
+prefix=3 
+game=𝗗émons♆
 stayinchannel=true
 songinstatus=true
